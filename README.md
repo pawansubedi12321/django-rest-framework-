@@ -6,4 +6,4 @@
  4.pipenv install djangorestframework
  2.python manage.py runserver
  
-This project is related to restaurant.I have used djoser for authentication.This is an api of which is related to restaurant using pipenv and djoser 
+This project is related to restaurant.I have used djoser for authentication.This is an api of which is related to restaurant using pipenv and djoser.
